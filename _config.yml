@@ -34,21 +34,9 @@ plugins:
   - jekyll-feed
 
 collections:
-  animals:
-    output: true
-    permalink: /:name
-
-defaults:
-  - scope:
-      path: ""
-      type: "animals"
-    values:
-      layout: animal
-
-collections:
   elecciones:
     output: true
-    permalink: /my-animal/:name
+    permalink: /:name
    
 
 defaults:
