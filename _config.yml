@@ -48,7 +48,7 @@ defaults:
 collections:
   elecciones:
     output: true
-    permalink: /:name
+    permalink: /my-animal/:name
    
 
 defaults:
