@@ -47,7 +47,7 @@ defaults:
 collections:
   elecciones:
     output: true
-    permalink: /electo/:name
+    permalink: /:name
 
 defaults:
   - scope:
