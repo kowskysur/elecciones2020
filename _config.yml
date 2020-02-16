@@ -47,7 +47,7 @@ defaults:
 collections:
   elecciones:
     output: true
-    permalink: /collecctionobject/:path/
+    permalink: /:collection/:path/
 
 defaults:
   - scope:
