@@ -48,6 +48,7 @@ defaults:
 collections:
   elecciones:
     output: true
+    permalink: /:name
    
 
 defaults:
