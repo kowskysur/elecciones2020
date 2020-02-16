@@ -47,7 +47,7 @@ defaults:
 collections:
   elecciones:
     output: true
-    permalink: /elecciones2020/:name
+    permalink: /electo/:name
 
 defaults:
   - scope:
