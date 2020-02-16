@@ -8,8 +8,10 @@ title: "Agenda electoral 2020 de América Latina"
     <li>
        <form action="{{ eleccion.url }}">
        	   {{ eleccion.titulo }}
-		   <input type="submit" value="Ver más" />
-	   </form>
+	   
+           <input type="submit" value="Ver más" />
+       </form>
+       <a class="post-link" href="{{ eleccion.ur | prepend: site.baseurl }}">{{ eleccion.titulo }}</a>
     </li>
 
   {% endfor %}
