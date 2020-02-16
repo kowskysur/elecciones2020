@@ -1,0 +1,7 @@
+---
+titulo: ELECCIONES DE CONGRESO EN ESTADOS DE COAHUILA E HIDALGO EN MEXICO
+pais: Mexico
+fecha: 7 de Junio de 2020
+---
+
+

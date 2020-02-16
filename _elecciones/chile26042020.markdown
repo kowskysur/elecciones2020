@@ -1,0 +1,7 @@
+---
+titulo: PLEBISCITO CONSTITUCIONAL EN CHILE
+pais: Chile
+fecha: 26 de Abril de 2020
+---
+
+

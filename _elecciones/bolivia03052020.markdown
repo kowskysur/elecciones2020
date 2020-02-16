@@ -1,0 +1,7 @@
+---
+titulo: ELECCIONES PRESIDENCIALES Y LEGISLATIVAS EN BOLIVIA
+pais: Bolivia
+fecha: 3 de Mayo de 2020
+---
+
+

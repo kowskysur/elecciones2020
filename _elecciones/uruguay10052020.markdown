@@ -1,0 +1,7 @@
+---
+titulo: ELECCIONES DEPARTAMENTALES Y MUNICIPALES EN URUGUAY
+pais: Uruguay
+fecha: 10 de Mayo de 2020
+---
+
+

@@ -1,0 +1,19 @@
+---
+title: "Agenda electoral 2020 de América Latina"
+---
+
+<h1 align="center">{{page.title | upcase}}</h1>
+<ul>
+  {% for eleccion in site.elecciones %}
+    <li>
+       <form action="{{ eleccion.url }}">
+       	   {{ eleccion.titulo }}
+		   <input type="submit" value="Ver más" />
+	   </form>
+    </li>
+
+  {% endfor %}
+</ul>
+
+
+<h3>source by  <a href="https://www.nodal.am/2020-calendario-electoral">nodal</a></h3>
